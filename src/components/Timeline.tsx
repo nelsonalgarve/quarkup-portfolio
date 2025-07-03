@@ -17,7 +17,7 @@ const timeline = [
     icon: FaGraduationCap
   },
   {
-    year: "2015-2020",
+    year: "2015-2024",
     title: "Formations Dyma / Codecademy",
     description: "Montée en compétence en JavaScript, React, Node.js. Création d'apps plus complexes.",
     icon: FaLaptopCode
