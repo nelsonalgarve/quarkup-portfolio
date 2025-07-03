@@ -9,11 +9,11 @@ export default function Footer() {
         <p className="text-base font-semibold">Quarkup Studio – Nelson Guerreiro</p>
 
         <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 text-gray-300">
-          <a href="mailto:nelson.guerreiro@quarkup-studio.com" className="flex items-center gap-1 hover:text-accent transition">
-            <FaEnvelope className="text-accent" /> nelson.guerreiro@quarkup-studio.com
+          <a href="mailto:nelson.guerreiro@nc-services.fr" className="flex items-center gap-1 hover:text-accent transition">
+            <FaEnvelope className="text-accent" /> nelson.guerreiro@nc-services.fr
           </a>
-          <a href="tel:+33631543526" className="flex items-center gap-1 hover:text-accent transition">
-            <FaPhone className="text-accent" /> +33 6 31 54 35 26
+          <a href="tel:+33600000000" className="flex items-center gap-1 hover:text-accent transition">
+            <FaPhone className="text-accent" /> +33 6 00 00 00 00
           </a>
           <a href="https://www.quarkup-studio.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-accent transition">
             <FaGlobe className="text-accent" /> quarkup-studio.com
