@@ -6,6 +6,7 @@ import { useState } from "react";
 import { IconType } from "react-icons";
 
 interface SkillCardFlipProps {
+  key: number;
   name: string;
   icon: IconType;
   level: number;

@@ -24,7 +24,6 @@ const categories = {
   certificateImage: "/certifs/angular.png" },
   { name: "Vue2", icon: FaVuejs, level: 4, description: "Développement mobile natif cross-platform avec React.", certificateUrl: "https://dyma.fr/certification/5fd7a6e0d6d54c08b731baea/5bcf16661ea83e25d0ed7d8b",
   certificateImage: "/certifs/vue.png" },
-,
     { name: "React Native", icon: TbBrandReactNative, level: 4, description: "Développement mobile natif cross-platform avec React.", certificateUrl: "https://verified.sertifier.com/fr/verify/70749271769884/?ref=email",
   certificateImage: "https://api-lb.appfurther.io/v2/ims/image/70749271769884" },
   { name: "Typescript", icon: SiTypescript, level: 4, description: "Ajoute des types statiques à JS pour rendre le code plus sûr et maintenable.", certificateUrl: "https://dyma.fr/certification/5fd7a6e0d6d54c08b731baea/5ec44a260e320871af33ecaa",
@@ -40,7 +39,7 @@ const categories = {
       { name: "PHP", icon: SiPhp, level: 4, description: "Langage backend robuste, utilisé dans des millions de sites Web dynamiques.", certificateUrl: "https://dyma.fr/certification/5fd7a6e0d6d54c08b731baea/6077538892e5cf4e20fee6d8",
   certificateImage: "/certifs/php.png"  },
       { name: "Symfony", icon: SiSymfony, level: 4, description: "Framework PHP moderne pour des applications maintenables et performantes.", certificateUrl: "https://dyma.fr/certification/5fd7a6e0d6d54c08b731baea/60ea04ae7fc35f0f15b5537d",
-  certificateImage: "/certifs/symfony.png",   },
+  certificateImage: "/certifs/symfony.png" },
       { name: "Node.js", icon: SiNodedotjs, level: 4, description: "Serveur JavaScript rapide, parfait pour les APIs modernes.", certificateUrl: "https://dyma.fr/certification/5fd7a6e0d6d54c08b731baea/5c69b1d1606df31e473253d8",
   certificateImage: "/certifs/node.png" },
     ]
