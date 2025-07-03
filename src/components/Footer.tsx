@@ -16,7 +16,7 @@ export default function Footer() {
             <FaPhone className="text-accent" /> +33 6 31 54 35 26
           </a>
           <a href="https://www.quarkup-studio.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:text-accent transition">
-            <FaGlobe className="text-accent" /> quarkup-studio.com
+            <FaGlobe className="text-accent" /> www.quarkup-studio.com
           </a>
         </div>
 
