@@ -24,7 +24,7 @@ export default function Footer() {
           <a href="https://github.com/nelsonalgarve" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
             <FaGithub size={20} />
           </a>
-          <a href="https://linkedin.com/in/nelson-guerreiro" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
+          <a href="https://www.linkedin.com/in/nelson-viegas-guerreiro" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
             <FaLinkedin size={20} />
           </a>
         </div>
