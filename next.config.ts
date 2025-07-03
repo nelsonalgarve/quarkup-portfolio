@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  images: {
+    domains: ['api-lb.appfurther.io'],
+  },
 };
 
 export default nextConfig;
+
+
+

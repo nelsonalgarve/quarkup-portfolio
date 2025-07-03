@@ -27,6 +27,7 @@ export default function Header() {
           <Link href="/" className="hover:text-accent transition">Accueil</Link>
           <Link href="/about" className="hover:text-accent transition">À propos</Link>
           <Link href="/skills" className="hover:text-accent transition">Compétences</Link>
+          <Link href="/certifications" className="hover:text-accent transition">Certifications</Link>
         </nav>
 
         {/* BURGER MENU MOBILE */}
@@ -49,6 +50,7 @@ export default function Header() {
           <Link href="/" className="hover:text-accent transition">Accueil</Link>
           <Link href="/about" className="hover:text-accent transition">À propos</Link>
           <Link href="/skills" className="hover:text-accent transition">Compétences</Link>
+          <Link href="/certifications" className="hover:text-accent transition">Certifications</Link>
         </motion.div>
       )}
     </header>
