@@ -28,6 +28,7 @@ export default function Header() {
           <Link href="/about" className="hover:text-accent transition">À propos</Link>
           <Link href="/skills" className="hover:text-accent transition">Compétences</Link>
           <Link href="/certifications" className="hover:text-accent transition">Certifications</Link>
+          <Link href="/projects" className="hover:text-accent transition">Projets</Link>
           <Link href="/contact" className="hover:text-accent transition">Contact</Link>
         </nav>
 
